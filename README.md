@@ -8,5 +8,16 @@ I'm **Achinta**, a curious builder who enjoys turning ideas into practical proje
 - 🤝 I'm open to collaborating with people who value creativity, ownership, and growth.
 - 🎯 My goal is to build meaningful products and become better with every project.
 
-### Let’s connect
-If you want to collaborate, share ideas, or just say hi, feel free to reach out.
+### 🌟 Let’s Connect
+
+<p>
+  <a href="mailto:achintahazra8515@gmail.com">
+    📫 Email
+  </a> •
+  <a href="https://achintahazra.shop">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/achinta-hazra">💼 LinkedIn</a> •
+  <a href="https://facebook.com/Achinta005">📘 Facebook</a> •
+  <a href="https://leetcode.com/u/achinta005/">🧠 LeetCode</a>
+</p>
+
+✨ <i>Let’s connect, create, and build something impactful together!</i>
