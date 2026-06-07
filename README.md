@@ -12,10 +12,7 @@
 
 <!-- Profile Views & Followers badges -->
 <img src="https://komarev.com/ghpvc/?username=Achinta005&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/Achinta005?tab=followers">
-  <img src="https://img.shields.io/github/followers/Achinta005?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" alt="GitHub Followers"/>
-</a>
+
 
 </div>
 
@@ -82,16 +79,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Achinta005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achinta005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Available-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-a78bfa?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Achinta005&style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Profile+Views)
 
 </div>
 
@@ -105,11 +95,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Achinta005&theme=radical&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" width="100%"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-★★★★☆-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
